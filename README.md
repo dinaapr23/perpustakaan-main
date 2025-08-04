@@ -59,8 +59,4 @@ Cara Instalasi
 
     php artisan serve
 
-Link Demo / Live Demo
-
-    Link Demo: [Masukkan link demo aplikasi jika dihosting]
-
 © 2025 Dina Aprillita
